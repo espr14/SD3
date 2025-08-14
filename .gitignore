@@ -1,0 +1,17 @@
+.*.sw*
+SD3.so
+pixi.lock
+.pixi
+
+.vs/*
+*.sdf
+*.suo
+*.pdb
+*.aps
+*.deps
+*.VC.opendb
+*.VC.db
+*.VC.db-*
+ipch
+Release
+Debug
